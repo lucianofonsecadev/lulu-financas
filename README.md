@@ -20,7 +20,7 @@ Você manda "gastei R$ 35 no mercado", o Lulu entende, mostra o resumo e só gra
 
 </div>
 
-![Landing do Lulu](docs/landing-desktop.png)
+![Telas do Lulu](docs/lulu.gif)
 
 ## O que o Lulu faz
 
